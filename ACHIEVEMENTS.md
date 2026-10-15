@@ -5,3 +5,4 @@
 - Milestone step 5: automated tracking entry
 - Milestone step 6: automated tracking entry
 - Milestone step 7: automated tracking entry
+- Milestone step 8: automated tracking entry
