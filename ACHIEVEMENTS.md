@@ -9,3 +9,4 @@
 - Milestone step 9: automated tracking entry
 - Milestone step 10: automated tracking entry
 - Milestone step 11: automated tracking entry
+- Milestone step 12: automated tracking entry
