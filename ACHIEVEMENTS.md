@@ -1,3 +1,4 @@
 - Milestone 1: Pair and Shark tracking
 - Milestone step 2: automated tracking entry
 - Milestone step 3: automated tracking entry
+- Milestone step 4: automated tracking entry
